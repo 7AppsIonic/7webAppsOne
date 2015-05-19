@@ -1,4 +1,4 @@
-package org.iilab.pb.adapter;
+package asia.titanium.pa.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,8 +11,8 @@ import android.widget.ImageView;
 
 import java.util.List;
 
-import org.iilab.pb.R;
-import org.iilab.pb.model.PageAction;
+import asia.titanium.pa.R;
+import asia.titanium.pa.model.PageAction;
 
 /**
  * Created by aoe on 2/10/14.
