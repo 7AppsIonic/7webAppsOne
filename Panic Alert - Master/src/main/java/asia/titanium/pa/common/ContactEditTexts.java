@@ -1,4 +1,4 @@
-package org.iilab.pb.common;
+package asia.titanium.pa.common;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
@@ -14,14 +14,14 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import org.iilab.pb.R;
-import org.iilab.pb.model.SMSSettings;
+import asia.titanium.pa.R;
+import asia.titanium.pa.model.SMSSettings;
 
 
-import static org.iilab.pb.R.id.first_contact;
-import static org.iilab.pb.R.id.second_contact;
-import static org.iilab.pb.R.id.third_contact;
-import static org.iilab.pb.common.AppConstants.PHONE_NUMBER_LIMIT;
+import static asia.titanium.pa.R.id.first_contact;
+import static asia.titanium.pa.R.id.second_contact;
+import static asia.titanium.pa.R.id.third_contact;
+import static asia.titanium.pa.common.AppConstants.PHONE_NUMBER_LIMIT;
 
 public class ContactEditTexts {
     private List<EditText> contacts = new ArrayList<EditText>();
