@@ -1,4 +1,4 @@
-package org.iilab.pb.calculator;
+package asia.titanium.pa.calculator;
 
 public interface Calculator {
 
