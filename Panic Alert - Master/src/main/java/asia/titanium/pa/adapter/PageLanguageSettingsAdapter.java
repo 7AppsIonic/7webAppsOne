@@ -1,4 +1,4 @@
-package org.iilab.pb.adapter;
+package asia.titanium.pa.adapter;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -14,13 +14,13 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Toast;
 
-import org.iilab.pb.MainActivity;
-import org.iilab.pb.R;
-import org.iilab.pb.WizardActivity;
-import org.iilab.pb.common.AppConstants;
-import org.iilab.pb.common.AppUtil;
-import org.iilab.pb.common.ApplicationSettings;
-import org.iilab.pb.model.PageAction;
+import asia.titanium.pa.MainActivity;
+import asia.titanium.pa.R;
+import asia.titanium.pa.WizardActivity;
+import asia.titanium.pa.common.AppConstants;
+import asia.titanium.pa.common.AppUtil;
+import asia.titanium.pa.common.ApplicationSettings;
+import asia.titanium.pa.model.PageAction;
 
 import java.util.List;
 import java.util.Locale;
@@ -161,7 +161,7 @@ public class PageLanguageSettingsAdapter extends ArrayAdapter<PageAction> {
 //        @Override
 //        protected void onPreExecute() {
 //            super.onPreExecute();
-//            pDialog = ProgressDialog.show(mContext, "Panic Button", "Checking for updates...", true, false);
+//            pDialog = ProgressDialog.show(mContext, "Panic Alert", "Checking for updates...", true, false);
 //        }
 //
 //        @Override
