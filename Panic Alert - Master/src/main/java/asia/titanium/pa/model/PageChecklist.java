@@ -1,4 +1,4 @@
-package org.iilab.pb.model;
+package asia.titanium.pa.model;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
