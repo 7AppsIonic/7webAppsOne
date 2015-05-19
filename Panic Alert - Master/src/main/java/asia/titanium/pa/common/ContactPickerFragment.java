@@ -1,6 +1,6 @@
-package org.iilab.pb.common;
+package asia.titanium.pa.common;
 
-import org.iilab.pb.R;
+import asia.titanium.pa.R;
 
 import android.content.Intent;
 import android.database.Cursor;
