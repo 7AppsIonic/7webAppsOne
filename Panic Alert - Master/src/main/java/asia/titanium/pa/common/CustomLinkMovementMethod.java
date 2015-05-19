@@ -1,4 +1,4 @@
-package org.iilab.pb.common;
+package asia.titanium.pa.common;
 
 import android.content.Context;
 import android.content.Intent;
@@ -12,7 +12,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.widget.TextView;
 
-import org.iilab.pb.MainActivity;
+import asia.titanium.pa.MainActivity;
 
 
 /**
