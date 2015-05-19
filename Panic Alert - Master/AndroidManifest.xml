@@ -58,16 +58,16 @@
 
         <receiver android:enabled="true" android:exported="false" android:name=".location.LocationUpdateReceiver">
             <intent-filter>
-                <action android:name="org.iilab.pb.LOCATION_UPDATE_ACTION"/>
+                <action android:name="asia.titanium.pa.LOCATION_UPDATE_ACTION"/>
             </intent-filter>
         </receiver>
 
         <receiver android:enabled="true" android:exported="false" android:name=".alert.AlarmReceiver">
             <intent-filter>
-                <action android:name="org.iilab.pb.SEND_ALERT_ACTION"/>
+                <action android:name="asia.titanium.pa.SEND_ALERT_ACTION"/>
             </intent-filter>
             <intent-filter>
-                <action android:name="org.iilab.pb.SEND_ALERT_ACTION_SINGLE"/>
+                <action android:name="asia.titanium.pa.SEND_ALERT_ACTION_SINGLE"/>
             </intent-filter>
         </receiver>
 
