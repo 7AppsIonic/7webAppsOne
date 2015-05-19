@@ -1,4 +1,4 @@
-package org.iilab.pb.model;
+package asia.titanium.pa.model;
 
 /**
  * Created by aoe on 1/24/14.
