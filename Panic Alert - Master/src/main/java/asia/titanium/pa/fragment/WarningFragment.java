@@ -1,4 +1,4 @@
-package org.iilab.pb.fragment;
+package asia.titanium.pa.fragment;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -20,17 +20,17 @@ import android.widget.TextView;
 
 import java.util.HashMap;
 
-import org.iilab.pb.R;
-import org.iilab.pb.WizardActivity;
-import org.iilab.pb.adapter.PageActionAdapter;
-import org.iilab.pb.adapter.PageItemAdapter;
-import org.iilab.pb.common.AppConstants;
-import org.iilab.pb.common.AppUtil;
-import org.iilab.pb.common.ApplicationSettings;
-import org.iilab.pb.common.MyTagHandler;
-import org.iilab.pb.data.PBDatabase;
-import org.iilab.pb.model.Page;
-import org.iilab.pb.model.PageItem;
+import asia.titanium.pa.R;
+import asia.titanium.pa.WizardActivity;
+import asia.titanium.pa.adapter.PageActionAdapter;
+import asia.titanium.pa.adapter.PageItemAdapter;
+import asia.titanium.pa.common.AppConstants;
+import asia.titanium.pa.common.AppUtil;
+import asia.titanium.pa.common.ApplicationSettings;
+import asia.titanium.pa.common.MyTagHandler;
+import asia.titanium.pa.data.PBDatabase;
+import asia.titanium.pa.model.Page;
+import asia.titanium.pa.model.PageItem;
 
 /**
  * Created by aoe on 1/31/14.
